@@ -1,10 +1,16 @@
+## 📸 Project Preview
+
+![FURNIX Website Preview](./Assets/Images/Preview.png)
+
+## 🌐 Live Demo
+
+Check out the live website:
+
+[🚀 View FURNIX Live Demo](https://fahad03451481947-dev.github.io/Inovation-Ecommerce-Website/)
+
 # 🛋️ FURNIX – Furniture E-Commerce Website
 
-A modern and visually appealing furniture e-commerce website designed to showcase furniture collections and provide users with an attractive online shopping experience. 
-
-## 📌 Project Name
-
-**FURNIX – Modern Furniture Store**
+A modern and visually appealing furniture e-commerce website designed to showcase furniture collections and provide users with an attractive online shopping experience.
 
 ## 🛠️ Technologies
 
